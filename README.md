@@ -18,14 +18,9 @@ ________________________________________________________________________________
  **Live Preview: Choose Half Screen or Full Screen preview**
  __________________________________________________________________________________
  **Offline Support: Work with locally stored project files without requiring an online server**
-__________________________________________________________________________________
-**Download Index Studio**
+_____________________________
 
-<p align="center">
-  <a href="https://github.com/KSURitam/Index.html-Studio/releases/tag/Apk">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=android&logoColor=white" alt="Download Now"/>
-  </a>
-</p>Available Downloads
+👉 **[📱 Download APK]https://github.com/KSURitam/Index.html-Studio/releases/tag/Apk**
 
 # We provide three files in the GitHub Releases section. Choose the file that matches your requirements:
 
