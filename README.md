@@ -20,7 +20,7 @@ ________________________________________________________________________________
  **Offline Support: Work with locally stored project files without requiring an online server**
 _____________________________
 
-👉 **[📱 Download APK](https://github.com/KSURitam/Index.html-Studio/releases/tag/Apk)**
+👉 **[📱 Download APK](https://github.com/Anshaks/Index.html-Studio/releases/tag/Apk)**
 
 # We provide three files in the GitHub Releases section. Choose the file that matches your requirements:
 
