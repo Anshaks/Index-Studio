@@ -78,3 +78,6 @@ Choose whichever option you need. You do not need to download all three file
 License
 
 See the "LICENSE" file in this repository, if available.
+
+## Developers
+**Main Developers:** KSURitam & Anshaks
